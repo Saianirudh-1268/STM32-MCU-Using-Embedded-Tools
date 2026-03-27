@@ -1,7 +1,7 @@
-# STM32-MCU-Using-Embedded-Tools
+*STM32-MCU-Using-Embedded-Tools*
 This repository contains some files with designed embedded code and attached images of STM32 Microcontroller kit having blinking LEDs.
 
-# Hello World Code with STM32
+1. Hello World Code with STM32
 #include <stdio.h>
 
 #if !defined(__SOFT_FP__) && defined(__ARM_FP)
