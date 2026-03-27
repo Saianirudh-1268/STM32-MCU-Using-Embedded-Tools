@@ -1,0 +1,2 @@
+# STM32-MCU-Using-Embedded-Tools
+This repository contains some files with designed embedded code and attached images of STM32 Microcontroller kit having blinking LEDs.
